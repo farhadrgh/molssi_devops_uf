@@ -1,5 +1,5 @@
 """
-Tests for the molssi_math module.
+Tests for the molssi_math module
 """
 
 # Import package, test suite, and other packages as needed
