@@ -28,7 +28,7 @@ def title_case(sentence):
 
     # check the input is string
     if not isinstance(sentence, str):
-        raise TypeError('Invalid inpu %s - Input must be type string' % (sentence))
+        raise TypeError('Invalid input %s - Input must be type string' % (sentence))
 
     if len(sentence) == 0:
         raise ValueError('Cannot apply title_case to empty string')
