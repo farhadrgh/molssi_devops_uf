@@ -6,6 +6,10 @@ molssi_devops_uf
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molssi_devops_uf/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molssi_devops_uf/branch/master)
 
 A sample repository for the MOLSSI workshop at UF.
+This repository is currently under development.
+To do a developmental install, type
+
+`pip install -e .`
 
 ### Copyright
 
