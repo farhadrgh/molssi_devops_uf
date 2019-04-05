@@ -1,2 +1,12 @@
+********************************
+This is the start of texting.txt
+********************************
+
+
 added this file from a new clone!
 Now I have added a new line.
+
+
+********************************
+Footer
+********************************
