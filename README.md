@@ -9,7 +9,7 @@ A sample repository for the MOLSSI workshop at UF.
 This repository is currently under development.
 To do a developmental install, type
 
-```(python)pip install -e .```
+`pip install -e .`
 
 ### Copyright
 
