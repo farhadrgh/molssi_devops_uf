@@ -1,9 +1,9 @@
 molssi_devops_uf
 ==============================
 [//]: # (Badges)
-[![Travis Build Status](https://travis-ci.org/REPLACE_WITH_OWNER_ACCOUNT/molssi_devops_uf.png)](https://travis-ci.org/REPLACE_WITH_OWNER_ACCOUNT/molssi_devops_uf)
-[![AppVeyor Build status](https://ci.appveyor.com/api/projects/status/REPLACE_WITH_APPVEYOR_LINK/branch/master?svg=true)](https://ci.appveyor.com/project/REPLACE_WITH_OWNER_ACCOUNT/molssi_devops_uf/branch/master)
-[![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molssi_devops_uf/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molssi_devops_uf/branch/master)
+[![Travis Build Status](https://travis-ci.org/farhadrgh/molssi_devops_uf.svg?branch=master)](https://travis-ci.org/farhadrgh/molssi_devops_uf)
+[![Build status](https://ci.appveyor.com/api/projects/status/xohe1yc6ijjsnbfg?svg=true)](https://ci.appveyor.com/project/farhadrgh/molssi-devops-uf)
+[![codecov](https://codecov.io/gh/farhadrgh/molssi_devops_uf/branch/master/graph/badge.svg)](https://codecov.io/gh/farhadrgh/molssi_devops_uf)
 
 A sample repository for the MOLSSI workshop at UF.
 This repository is currently under development.
